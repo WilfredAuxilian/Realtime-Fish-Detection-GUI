@@ -4,7 +4,7 @@
 
 It is an AI Hybrid Framework Graphical User Interface system consisting of Real-Time Underwater Fish Detection using two Machine Learning algorithms &amp; traditional Computer Vision Algorithm and an Image Enhancement Pipeline to improve the Efficiency and Accuracy.
 
-This was my research work in NIOT (National Institute Of Ocean Technology) as a Project Trainee in Underwater Image/Video Processing Domain under Computer Infrastructure Group (CIG). 
+This was my research work in NIOT (National Institute Of Ocean Technology) as a Project Trainee in Underwater Image/Video Processing Domain under Computer Infrastructure Group (CIG). In our GUI, I have provided buttons to enhance,detect and download the images or videos. Furthertime, I would like to enhance my GUI by adding more features and integrating livestream facility to it, it would bring tremendous change in the AI and Oceans Research Industry.
 
 My work would be explained in a step wise manner below :-
 1) Image Enhanacement 
@@ -18,3 +18,10 @@ My work would be explained in a step wise manner below :-
 9) Deploying it in Real-Time applications.
 10) Collecting Results and comparison.
 11) Adding more images to datasets and repeating the process from step 4 for better accuracy and efficiency.
+
+Files present in my repository:-
+1) Fish Detection GUI code
+2) YOLOv11 Training and Validation Code
+3) FasterRCNN Training and Validation Code
+
+***Kindly Check the Requirements Before !!!***
