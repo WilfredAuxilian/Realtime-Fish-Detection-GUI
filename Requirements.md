@@ -1,7 +1,7 @@
 Requirements:-
 1) Python 3.7 or above
    
-2) List of Librariries:-
+2) List of Libraries:-
    1) Torch 
    2) Torchvision
    3) ultralytics
