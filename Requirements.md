@@ -2,13 +2,13 @@ Requirements:-
 1) Python 3.7 or above
    
 2) List of Librariries:-
-   a) Torch 
-   b) Torchvision
-   c) ultralytics
-   d) opencv-python
-   e) Pillow
-   f) Numpy
-   g) tkinter
+   1) Torch 
+   2) Torchvision
+   3) ultralytics
+   4) opencv-python
+   5) Pillow
+   6) Numpy
+   7) tkinter
   
 3) Datasets:-
    a) YOLOv11 - .pt files (*Two models required*)
