@@ -11,23 +11,23 @@ Requirements:-
    7) tkinter
   
 3) Datasets:-
-   a) YOLOv11 - .pt files (*Two models required*)
-   b) FasterRCNN - .pth files (*Two models required*)
-   c) HaarCascade - .xml files (*Five model files required*)
+   1) YOLOv11 - .pt files (*Two models required*)
+   2) FasterRCNN - .pth files (*Two models required*)
+   3) HaarCascade - .xml files (*Five model files required*)
 
 4) Total number of fishes choosen - 5 Different Species of fish
 
 5) Tools for Annotation:
-   Roboflow - YOLOv11, FasterRCNN
-   Labellmg - YOLOv11
-   LabelMe - FasterRCNN
-   Cascade Trainer GUI - HaarCascade
+   1) Roboflow - YOLOv11, FasterRCNN
+   2) Labellmg - YOLOv11
+   3) LabelMe - FasterRCNN
+   4) Cascade Trainer GUI - HaarCascade
 (*I have provided the link to download Cascade Trainer Gui --> "https://amin-ahmadi.com/cascade-trainer-gui/"*)
 
 6) Tools for Training:
-   YOLOv11- JupyterLab, Google Collab (T4 GPU) 
-   FasterRCNN- Google Collab(T4 GPU) ( *Requires GPU with Nvidia Core and High RAM for Training* )
-   HaarCascade- Cascade Trainer GUI
+   1) YOLOv11- JupyterLab, Google Collab (T4 GPU) 
+   2) FasterRCNN- Google Collab(T4 GPU) ( *Requires GPU with Nvidia Core and High RAM for Training* )
+   3) HaarCascade- Cascade Trainer GUI
       
 ____________________________________________________________________________________________________________________
 IMPORTANT POINTS:
